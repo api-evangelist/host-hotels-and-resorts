@@ -22,6 +22,11 @@ common:
     url: https://www.hosthotels.com
   - type: Investors
     url: https://www.hosthotels.com/investors
+  - type: Integrations
+    url: https://www.hosthotels.com/integrations
+integrations:
+  - name: Logo
+  - name: Grand Hyatt Washington
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
