@@ -24,6 +24,8 @@ common:
     url: https://www.hosthotels.com/investors
   - type: Integrations
     url: https://www.hosthotels.com/integrations
+  - type: LLMsTxt
+    url: https://www.hosthotels.com/llms.txt
 integrations:
   - name: Logo
   - name: Grand Hyatt Washington
