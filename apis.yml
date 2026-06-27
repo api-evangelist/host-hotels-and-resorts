@@ -25,7 +25,7 @@ common:
     url: https://www.hosthotels.com/investors
   - type: Integrations
     url: https://www.hosthotels.com/integrations
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://www.hosthotels.com/llms.txt
 integrations:
   - name: Logo
