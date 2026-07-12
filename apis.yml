@@ -19,6 +19,8 @@ tags:
   - Fortune 500
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/host-hotels-and-resorts-domain-security.yml
   - type: Website
     url: https://www.hosthotels.com
   - type: Investors
