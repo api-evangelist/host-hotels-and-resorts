@@ -39,7 +39,7 @@ tags:
   - Hospitality
   - Hotels
   - REIT
-  - Real-Estate
+  - Real Estate
   - Fortune 500
 tags_raw:
   - Hospitality
@@ -47,6 +47,7 @@ tags_raw:
   - REIT
   - Real Estate
   - Fortune 500
+  - Real-Estate
 apis: []
 common:
   - type: DomainSecurity
